@@ -8,3 +8,7 @@ Based on [Jose Jesus Perez Aguinaga](https://coderwall.com/jjperezaguinaga)  Cod
 * UTF-8
 * Titled Tab
 * Google Docs Favicon
+
+## Using
+
+Just copy/paste `.xml` content in the browser's address bar, enjoy!
